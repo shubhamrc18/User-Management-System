@@ -1,2 +1,16 @@
-# User-Management-System
-The User Management System is an Angular 14 application designed to manage users efficiently. It allows adding, editing, deleting, and searching users with features like role assignment, sorting, pagination, and email validation. Built with Angular Material, it’s fully responsive and works seamlessly across devices.
+# User Management System
+
+A simple User Management System built with Angular 14 and Angular Material. Manage users by adding, editing, deleting, and searching. Features include role assignment, sorting, pagination, and email validation.
+
+## Features
+
+- Add, edit, delete users.
+- Search and sort users by name or email.
+- Role-based access (Admin, User).
+- Responsive design for all devices.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shubhamrc18/User-Management-System.git
